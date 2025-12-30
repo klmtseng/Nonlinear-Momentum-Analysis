@@ -11,8 +11,7 @@ import {
   ExternalLink,
   CheckCircle,
   Menu,
-  X,
-  ChevronRight
+  X
 } from 'lucide-react';
 
 const PaperAnalysisApp = () => {
